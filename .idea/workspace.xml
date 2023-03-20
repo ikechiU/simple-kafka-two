@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="089ed7b5-7ecb-4b38-aff7-bf2ef4ed96d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/src/main/java/com/food/ordering/producer/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/src/main/java/com/food/ordering/producer/FoodOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/src/main/java/com/food/ordering/producer/FoodOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/src/main/java/com/food/ordering/producer/FoodOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/src/main/java/com/food/ordering/producer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/src/main/java/com/food/ordering/producer/ProducerMicroserviceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/target/classes/com/food/ordering/producer/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/target/classes/com/food/ordering/producer/FoodOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/target/classes/com/food/ordering/producer/FoodOrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/target/classes/com/food/ordering/producer/FoodOrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/target/classes/com/food/ordering/producer/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-microservice/target/classes/com/food/ordering/producer/ProducerMicroserviceApplication.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NEbeXpVlHDv1Rwolne6HmffWhM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "/Users/decagon/IdeaProjects/kafka-microservice/producer-microservice",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/producer-microservice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.food.ordering.producer" />
+      <recent name="com.food.ordering.consumer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerMicroserviceApplication">
+    <configuration name="ConsumerMicroserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer-microservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.food.ordering.consumer.ConsumerMicroserviceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.food.ordering.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerMicroserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="producer-microservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.food.ordering.producer.ProducerMicroserviceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.food.ordering.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerMicroserviceApplication" />
+        <item itemvalue="Spring Boot.ProducerMicroserviceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="089ed7b5-7ecb-4b38-aff7-bf2ef4ed96d1" name="Changes" comment="" />
+      <created>1679232288958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679232288958</updated>
+      <workItem from="1679232292747" duration="7437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/consumer-microservice" />
+    </ignored-roots>
+  </component>
+</project>
